@@ -15,7 +15,7 @@ $> cd MonetizzeTesteDev
 ```
 
 ### - **Local**
-##### No diretório onde o projeto foi clonado:
+##### No diretório onde o projeto foi clonado, abra o shell do python para testar a classe:
 
 - Importar e instanciar a classe MonetizzeTeste do arquivo dev_monetizze.py
 ```shell
