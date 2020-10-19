@@ -30,6 +30,10 @@ $ c.retorna_jogos()
 ```shell
 $ c.sorteio_resultado_aleatorio()
 ```
+- Imprime o resultado do jogo atual
+```shell
+$ c.resultado
+```
 - Confere e imprime os acertos dos jogos
 ```shell
 $ c.confere_jogos()
